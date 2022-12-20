@@ -12,6 +12,7 @@ An online ticketing system built using Flask-RESTful and ReactJS
 
 - Python 3
 - pgAdmin 4
+- postgreSQL
 - Flask-RESTful
 - REACTjs
 - _add any other tech stack requirements_

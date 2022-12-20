@@ -11,6 +11,7 @@ An online ticketing system built using Flask-RESTful and ReactJS
 ## Prerequisites
 
 - Python 3
+- pgAdmin 4
 - Flask-RESTful
 - REACTjs
 - _add any other tech stack requirements_
@@ -18,10 +19,11 @@ An online ticketing system built using Flask-RESTful and ReactJS
 ## How to run it
 
 1. Clone the repository and go to the root directory.
-2. Execute `python src/server.py` in the console
-3. Execute `npm start` in another console
-4. Open in your browser `http://localhost:3000/`
-5. _..._
+2. Execute `pip install -r requirements.txt` in the console
+3. Execute `python src/server.py` in the console
+4. Execute `npm start` in another console
+5. Open in your browser `http://localhost:3000/`
+6. _..._
 
 ## Known bugs and disclaimers
 
